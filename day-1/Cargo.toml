@@ -1,0 +1,5 @@
+[package]
+authors = ["deinok <deinok@deinok.com>"]
+edition = "2018"
+name = "day-1"
+version = "0.1.0"
